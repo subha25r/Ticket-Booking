@@ -1,2 +1,2 @@
-# Ticket-Booking
-booking
+# Movie-ticket-Booking
+Movie booking website by using HTML &amp; CSS &amp; Javascript
